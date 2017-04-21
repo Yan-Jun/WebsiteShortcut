@@ -1,6 +1,4 @@
 # WebsiteShortcut
-WebsiteShortcut
-=================
 <img src="https://github.com/Yan-Jun/WebsiteShortcut/blob/master/Screenshot/Screenshot_2016-09-17-11-08-08.jpg" wight="200" height="400">
 <img src="https://github.com/Yan-Jun/WebsiteShortcut/blob/master/Screenshot/Screenshot_2016-09-17-11-08-16.jpg" wight="200" height="400">
 <img src="https://github.com/Yan-Jun/WebsiteShortcut/blob/master/Screenshot/Screenshot_2016-09-17-11-10-01.jpg" wight="200" height="400">

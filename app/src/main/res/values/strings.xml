@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">WebsiteShortcut</string>
+    <string name="settings">settings</string>
+    <string name="search_title">search</string>
+
+    <!-- PopupMenu String Value -->
+    <string name="popupMenu1">關於程序</string>
+    <string name="aboutApp">Website Shortcut Beta 1.0.0\nDesigner: Yan Jun\nProgrammer: Yan Jun\n\n</string>
+    <string name="popupMenu2">寄信給我</string>
+    <string name="popupMenu3">設定語言</string>
+    <string name="popupMenu4">設定密碼</string>
+
+    <!-- StartActivity String Value -->
+    <string name="txt_showInfo">啟動中</string>
+    <string name="txt_showInfo_e">Start Application</string>
+    <string name="init_db">初始化資料庫中</string>
+    <string name="init_language">初始化語言</string>
+    <string name="init_password">確認密碼</string>
+    <string name="init_sharing">取得資料</string>
+    <string name="init_ok">確認完畢</string>
+    <string name="init_error">確認失敗</string>
+
+    <!-- SplitActivity String Value -->
+    <string name="txt_title_page1_state">請複製要截取網址的文字</string>
+    <string name="edt_hint">http://</string>
+    <string name="btn_split">截取網址</string>
+    <string name="edt_content">edt_content</string>
+
+    <!-- SaveActivity String Value -->
+    <string name="txt_title_page2">儲存網址</string>
+
+    <!-- BackupActivity String Value -->
+    <string name="txt_title_page3">備份資料</string>
+
+    <!-- List Layout String Value -->
+    <string name="txt_availableURL">未知網址</string>
+    <string name="txt_unavailableURL">錯誤網址</string>
+
+    <!-- Preferences Value -->
+    <array name="array">
+        <item>array1</item>
+        <item>array2</item>
+        <item>array3</item>
+        <item>array4</item>
+    </array>
+
+    <array name="array1">
+        <item>array11</item>
+        <item>array12</item>
+        <item>array13</item>
+        <item>array14</item>
+    </array>
+
+
+</resources>

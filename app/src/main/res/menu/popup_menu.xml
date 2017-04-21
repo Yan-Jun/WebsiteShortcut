@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.cise.stu.websiteshortcut.MainActivity" >
+
+    <item
+        android:title="@string/popupMenu1"
+        android:orderInCategory="101"
+        android:id="@+id/aboutMe" />
+
+    <item
+        android:title="@string/popupMenu2"
+        android:orderInCategory="102"
+        android:id="@+id/sentEmail" />
+
+    <item
+        android:title="@string/popupMenu3"
+        android:orderInCategory="103"
+        android:id="@+id/setLanguage" />
+
+    <item
+        android:title="@string/popupMenu4"
+        android:orderInCategory="104"
+        android:id="@+id/setPassWd" />
+
+</menu>
